@@ -1,0 +1,201 @@
+product_id,name,category,price
+1,Eletrônicos - Produto 1,Eletrônicos,3458.59
+2,Casa & Decoração - Produto 2,Casa & Decoração,422.07
+3,Livros - Produto 3,Livros,86.21
+4,Livros - Produto 4,Livros,42.51
+5,Eletrônicos - Produto 5,Eletrônicos,866.15
+6,Casa & Decoração - Produto 6,Casa & Decoração,411.43
+7,Vestuário - Produto 7,Vestuário,190.14
+8,Livros - Produto 8,Livros,76.15
+9,Eletrônicos - Produto 9,Eletrônicos,1129.73
+10,Alimentos - Produto 10,Alimentos,47.78
+11,Eletrônicos - Produto 11,Eletrônicos,3674.38
+12,Casa & Decoração - Produto 12,Casa & Decoração,1083.43
+13,Casa & Decoração - Produto 13,Casa & Decoração,947.47
+14,Alimentos - Produto 14,Alimentos,29.12
+15,Vestuário - Produto 15,Vestuário,236.63
+16,Eletrônicos - Produto 16,Eletrônicos,4881.96
+17,Casa & Decoração - Produto 17,Casa & Decoração,367.25
+18,Vestuário - Produto 18,Vestuário,267.09
+19,Vestuário - Produto 19,Vestuário,120.72
+20,Alimentos - Produto 20,Alimentos,16.04
+21,Vestuário - Produto 21,Vestuário,190.74
+22,Vestuário - Produto 22,Vestuário,106.95
+23,Alimentos - Produto 23,Alimentos,75.97
+24,Casa & Decoração - Produto 24,Casa & Decoração,740.77
+25,Alimentos - Produto 25,Alimentos,31.72
+26,Alimentos - Produto 26,Alimentos,38.6
+27,Casa & Decoração - Produto 27,Casa & Decoração,531.55
+28,Alimentos - Produto 28,Alimentos,78.24
+29,Casa & Decoração - Produto 29,Casa & Decoração,1155.9
+30,Alimentos - Produto 30,Alimentos,12.26
+31,Livros - Produto 31,Livros,48.53
+32,Alimentos - Produto 32,Alimentos,12.43
+33,Casa & Decoração - Produto 33,Casa & Decoração,960.66
+34,Alimentos - Produto 34,Alimentos,77.58
+35,Casa & Decoração - Produto 35,Casa & Decoração,626.95
+36,Livros - Produto 36,Livros,29.77
+37,Casa & Decoração - Produto 37,Casa & Decoração,937.27
+38,Eletrônicos - Produto 38,Eletrônicos,4753.05
+39,Alimentos - Produto 39,Alimentos,39.31
+40,Vestuário - Produto 40,Vestuário,67.14
+41,Casa & Decoração - Produto 41,Casa & Decoração,665.94
+42,Alimentos - Produto 42,Alimentos,77.78
+43,Eletrônicos - Produto 43,Eletrônicos,2411.63
+44,Livros - Produto 44,Livros,43.6
+45,Eletrônicos - Produto 45,Eletrônicos,524.6
+46,Vestuário - Produto 46,Vestuário,98.63
+47,Vestuário - Produto 47,Vestuário,288.84
+48,Alimentos - Produto 48,Alimentos,75.2
+49,Alimentos - Produto 49,Alimentos,24.47
+50,Alimentos - Produto 50,Alimentos,63.03
+51,Alimentos - Produto 51,Alimentos,47.63
+52,Vestuário - Produto 52,Vestuário,51.88
+53,Alimentos - Produto 53,Alimentos,52.87
+54,Livros - Produto 54,Livros,52.33
+55,Eletrônicos - Produto 55,Eletrônicos,2102.57
+56,Casa & Decoração - Produto 56,Casa & Decoração,838.0
+57,Eletrônicos - Produto 57,Eletrônicos,1218.24
+58,Vestuário - Produto 58,Vestuário,194.43
+59,Alimentos - Produto 59,Alimentos,49.54
+60,Eletrônicos - Produto 60,Eletrônicos,623.34
+61,Vestuário - Produto 61,Vestuário,194.55
+62,Casa & Decoração - Produto 62,Casa & Decoração,562.03
+63,Livros - Produto 63,Livros,31.52
+64,Vestuário - Produto 64,Vestuário,239.01
+65,Alimentos - Produto 65,Alimentos,74.96
+66,Alimentos - Produto 66,Alimentos,38.26
+67,Vestuário - Produto 67,Vestuário,65.44
+68,Alimentos - Produto 68,Alimentos,39.25
+69,Eletrônicos - Produto 69,Eletrônicos,3958.19
+70,Vestuário - Produto 70,Vestuário,81.93
+71,Eletrônicos - Produto 71,Eletrônicos,3074.25
+72,Vestuário - Produto 72,Vestuário,279.18
+73,Casa & Decoração - Produto 73,Casa & Decoração,240.19
+74,Livros - Produto 74,Livros,23.15
+75,Livros - Produto 75,Livros,49.67
+76,Vestuário - Produto 76,Vestuário,51.73
+77,Alimentos - Produto 77,Alimentos,45.63
+78,Livros - Produto 78,Livros,52.03
+79,Livros - Produto 79,Livros,50.98
+80,Casa & Decoração - Produto 80,Casa & Decoração,812.19
+81,Casa & Decoração - Produto 81,Casa & Decoração,815.93
+82,Eletrônicos - Produto 82,Eletrônicos,905.79
+83,Livros - Produto 83,Livros,33.66
+84,Alimentos - Produto 84,Alimentos,75.8
+85,Casa & Decoração - Produto 85,Casa & Decoração,419.32
+86,Vestuário - Produto 86,Vestuário,298.15
+87,Livros - Produto 87,Livros,20.67
+88,Livros - Produto 88,Livros,81.7
+89,Eletrônicos - Produto 89,Eletrônicos,1813.42
+90,Eletrônicos - Produto 90,Eletrônicos,2619.39
+91,Vestuário - Produto 91,Vestuário,80.49
+92,Livros - Produto 92,Livros,75.54
+93,Vestuário - Produto 93,Vestuário,95.19
+94,Alimentos - Produto 94,Alimentos,52.72
+95,Alimentos - Produto 95,Alimentos,78.88
+96,Casa & Decoração - Produto 96,Casa & Decoração,899.64
+97,Livros - Produto 97,Livros,92.13
+98,Casa & Decoração - Produto 98,Casa & Decoração,229.95
+99,Alimentos - Produto 99,Alimentos,54.7
+100,Vestuário - Produto 100,Vestuário,186.45
+101,Vestuário - Produto 101,Vestuário,71.67
+102,Alimentos - Produto 102,Alimentos,61.16
+103,Vestuário - Produto 103,Vestuário,223.51
+104,Alimentos - Produto 104,Alimentos,50.56
+105,Eletrônicos - Produto 105,Eletrônicos,2185.05
+106,Casa & Decoração - Produto 106,Casa & Decoração,746.8
+107,Alimentos - Produto 107,Alimentos,72.4
+108,Vestuário - Produto 108,Vestuário,171.55
+109,Vestuário - Produto 109,Vestuário,140.94
+110,Alimentos - Produto 110,Alimentos,48.22
+111,Casa & Decoração - Produto 111,Casa & Decoração,689.51
+112,Eletrônicos - Produto 112,Eletrônicos,1934.26
+113,Vestuário - Produto 113,Vestuário,290.51
+114,Casa & Decoração - Produto 114,Casa & Decoração,320.2
+115,Livros - Produto 115,Livros,49.14
+116,Casa & Decoração - Produto 116,Casa & Decoração,615.11
+117,Livros - Produto 117,Livros,46.73
+118,Alimentos - Produto 118,Alimentos,24.96
+119,Eletrônicos - Produto 119,Eletrônicos,4024.78
+120,Alimentos - Produto 120,Alimentos,59.78
+121,Livros - Produto 121,Livros,44.93
+122,Vestuário - Produto 122,Vestuário,86.95
+123,Eletrônicos - Produto 123,Eletrônicos,2162.94
+124,Vestuário - Produto 124,Vestuário,141.48
+125,Casa & Decoração - Produto 125,Casa & Decoração,353.55
+126,Casa & Decoração - Produto 126,Casa & Decoração,1019.54
+127,Eletrônicos - Produto 127,Eletrônicos,3422.93
+128,Livros - Produto 128,Livros,52.29
+129,Vestuário - Produto 129,Vestuário,62.46
+130,Casa & Decoração - Produto 130,Casa & Decoração,238.84
+131,Alimentos - Produto 131,Alimentos,77.06
+132,Casa & Decoração - Produto 132,Casa & Decoração,489.92
+133,Eletrônicos - Produto 133,Eletrônicos,1704.69
+134,Vestuário - Produto 134,Vestuário,218.81
+135,Casa & Decoração - Produto 135,Casa & Decoração,827.77
+136,Livros - Produto 136,Livros,61.21
+137,Casa & Decoração - Produto 137,Casa & Decoração,1104.41
+138,Alimentos - Produto 138,Alimentos,62.48
+139,Eletrônicos - Produto 139,Eletrônicos,4884.74
+140,Livros - Produto 140,Livros,23.26
+141,Eletrônicos - Produto 141,Eletrônicos,2220.68
+142,Eletrônicos - Produto 142,Eletrônicos,1276.58
+143,Vestuário - Produto 143,Vestuário,62.93
+144,Eletrônicos - Produto 144,Eletrônicos,4716.99
+145,Eletrônicos - Produto 145,Eletrônicos,776.96
+146,Alimentos - Produto 146,Alimentos,12.1
+147,Alimentos - Produto 147,Alimentos,10.89
+148,Vestuário - Produto 148,Vestuário,249.57
+149,Livros - Produto 149,Livros,87.74
+150,Vestuário - Produto 150,Vestuário,171.2
+151,Vestuário - Produto 151,Vestuário,170.55
+152,Casa & Decoração - Produto 152,Casa & Decoração,521.89
+153,Eletrônicos - Produto 153,Eletrônicos,3159.57
+154,Vestuário - Produto 154,Vestuário,101.03
+155,Livros - Produto 155,Livros,39.99
+156,Eletrônicos - Produto 156,Eletrônicos,3402.53
+157,Casa & Decoração - Produto 157,Casa & Decoração,256.24
+158,Eletrônicos - Produto 158,Eletrônicos,3826.24
+159,Livros - Produto 159,Livros,60.44
+160,Vestuário - Produto 160,Vestuário,195.93
+161,Alimentos - Produto 161,Alimentos,12.18
+162,Casa & Decoração - Produto 162,Casa & Decoração,1073.59
+163,Alimentos - Produto 163,Alimentos,60.68
+164,Alimentos - Produto 164,Alimentos,41.32
+165,Vestuário - Produto 165,Vestuário,140.4
+166,Alimentos - Produto 166,Alimentos,32.9
+167,Casa & Decoração - Produto 167,Casa & Decoração,599.41
+168,Alimentos - Produto 168,Alimentos,45.28
+169,Livros - Produto 169,Livros,34.9
+170,Eletrônicos - Produto 170,Eletrônicos,4602.3
+171,Vestuário - Produto 171,Vestuário,52.9
+172,Livros - Produto 172,Livros,65.41
+173,Vestuário - Produto 173,Vestuário,234.31
+174,Vestuário - Produto 174,Vestuário,94.9
+175,Vestuário - Produto 175,Vestuário,133.17
+176,Casa & Decoração - Produto 176,Casa & Decoração,1073.91
+177,Livros - Produto 177,Livros,91.8
+178,Casa & Decoração - Produto 178,Casa & Decoração,1108.46
+179,Eletrônicos - Produto 179,Eletrônicos,536.03
+180,Alimentos - Produto 180,Alimentos,59.31
+181,Casa & Decoração - Produto 181,Casa & Decoração,510.54
+182,Casa & Decoração - Produto 182,Casa & Decoração,587.21
+183,Eletrônicos - Produto 183,Eletrônicos,3753.28
+184,Vestuário - Produto 184,Vestuário,204.52
+185,Livros - Produto 185,Livros,50.93
+186,Eletrônicos - Produto 186,Eletrônicos,2010.41
+187,Eletrônicos - Produto 187,Eletrônicos,733.66
+188,Casa & Decoração - Produto 188,Casa & Decoração,556.21
+189,Livros - Produto 189,Livros,59.75
+190,Livros - Produto 190,Livros,75.85
+191,Casa & Decoração - Produto 191,Casa & Decoração,743.59
+192,Vestuário - Produto 192,Vestuário,171.32
+193,Casa & Decoração - Produto 193,Casa & Decoração,187.67
+194,Vestuário - Produto 194,Vestuário,71.92
+195,Vestuário - Produto 195,Vestuário,234.75
+196,Eletrônicos - Produto 196,Eletrônicos,1719.15
+197,Casa & Decoração - Produto 197,Casa & Decoração,465.73
+198,Eletrônicos - Produto 198,Eletrônicos,4002.9
+199,Eletrônicos - Produto 199,Eletrônicos,3200.08
+200,Livros - Produto 200,Livros,91.85

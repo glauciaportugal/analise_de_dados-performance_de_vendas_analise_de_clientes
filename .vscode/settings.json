@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Teste_Analista}/sales_data.db",
+            "name": "Teste Analista de Dados"
+        }
+    ]
+}
