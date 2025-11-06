@@ -53,7 +53,7 @@
 
 ---
 
-## 3. Instruções de Entrega e Reprodução [cite: 84]
+## 3. Instruções de Entrega e Reprodução
 
 ### A. Geração e Carregamento de Dados
 1. O repositório inclui os scripts `data_generator.py` e `upload_to_bigquery.py`.
